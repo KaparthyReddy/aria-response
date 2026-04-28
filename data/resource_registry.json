@@ -1,0 +1,122 @@
+[
+  {
+    "id": "res-001",
+    "name": "NDRF Team 7 — Vijayawada",
+    "resource_type": "rescue_team",
+    "status": "available",
+    "latitude": 16.5062,
+    "longitude": 80.6480,
+    "location_name": "Vijayawada Base",
+    "capacity": 45,
+    "assigned_incident_id": null,
+    "contact": "+91-866-0000007"
+  },
+  {
+    "id": "res-002",
+    "name": "NDRF Team 12 — Bhubaneswar",
+    "resource_type": "rescue_team",
+    "status": "deployed",
+    "latitude": 20.3152,
+    "longitude": 86.6097,
+    "location_name": "Paradip Staging Area",
+    "capacity": 45,
+    "assigned_incident_id": "inc-004",
+    "contact": "+91-674-0000012"
+  },
+  {
+    "id": "res-003",
+    "name": "Mobile Medical Unit — Pune",
+    "resource_type": "medical_unit",
+    "status": "deployed",
+    "latitude": 18.6298,
+    "longitude": 73.7997,
+    "location_name": "Pimpri-Chinchwad MIDC",
+    "capacity": 20,
+    "assigned_incident_id": "inc-002",
+    "contact": "+91-20-0000003"
+  },
+  {
+    "id": "res-004",
+    "name": "Mobile Medical Unit — Jammu",
+    "resource_type": "medical_unit",
+    "status": "available",
+    "latitude": 32.7266,
+    "longitude": 74.8570,
+    "location_name": "Jammu Base Hospital",
+    "capacity": 20,
+    "assigned_incident_id": null,
+    "contact": "+91-191-0000004"
+  },
+  {
+    "id": "res-005",
+    "name": "HAL Dhruv Helicopter — Vizag",
+    "resource_type": "helicopter",
+    "status": "available",
+    "latitude": 17.6868,
+    "longitude": 83.2185,
+    "location_name": "Vizag Air Base",
+    "capacity": 12,
+    "assigned_incident_id": null,
+    "contact": "+91-891-0000005"
+  },
+  {
+    "id": "res-006",
+    "name": "HAL Dhruv Helicopter — Bhubaneswar",
+    "resource_type": "helicopter",
+    "status": "deployed",
+    "latitude": 20.3152,
+    "longitude": 86.6097,
+    "location_name": "Paradip Evacuation Zone",
+    "capacity": 12,
+    "assigned_incident_id": "inc-004",
+    "contact": "+91-674-0000006"
+  },
+  {
+    "id": "res-007",
+    "name": "Flood Relief Supplies Cache — Kakinada",
+    "resource_type": "supplies",
+    "status": "available",
+    "latitude": 16.9891,
+    "longitude": 82.2475,
+    "location_name": "Kakinada District Warehouse",
+    "capacity": 5000,
+    "assigned_incident_id": null,
+    "contact": "+91-884-0000007"
+  },
+  {
+    "id": "res-008",
+    "name": "Emergency Shelter — Cuttack",
+    "resource_type": "shelter",
+    "status": "available",
+    "latitude": 20.4625,
+    "longitude": 85.8828,
+    "location_name": "Cuttack Cyclone Shelter Block A",
+    "capacity": 2000,
+    "assigned_incident_id": null,
+    "contact": "+91-671-0000008"
+  },
+  {
+    "id": "res-009",
+    "name": "Heavy Rescue Vehicle — Srinagar",
+    "resource_type": "vehicle",
+    "status": "available",
+    "latitude": 34.0837,
+    "longitude": 74.7973,
+    "location_name": "Srinagar SDRF Depot",
+    "capacity": 8,
+    "assigned_incident_id": null,
+    "contact": "+91-194-0000009"
+  },
+  {
+    "id": "res-010",
+    "name": "NDRF Team 3 — Nagpur",
+    "resource_type": "rescue_team",
+    "status": "available",
+    "latitude": 21.1458,
+    "longitude": 79.0882,
+    "location_name": "Nagpur NDRF Base",
+    "capacity": 45,
+    "assigned_incident_id": null,
+    "contact": "+91-712-0000003"
+  }
+]

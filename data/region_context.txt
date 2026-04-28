@@ -1,0 +1,34 @@
+ARIA OPERATIONAL CONTEXT — INDIA DISASTER RESPONSE
+
+PRIMARY JURISDICTION: Republic of India
+COORDINATING AUTHORITY: National Disaster Management Authority (NDMA)
+FIELD AUTHORITY: State Disaster Management Authorities (SDMAs)
+RESPONSE FORCE: National Disaster Response Force (NDRF), State Disaster Response Force (SDRF)
+
+HIGH-RISK ZONES:
+- Coastal Odisha & Andhra Pradesh: cyclone corridor (Bay of Bengal), Oct–May season
+- Northeast India & Himalayan foothills: landslides, cloudbursts (Jun–Sep)
+- Godavari, Krishna, Brahmaputra basins: annual flooding (Jul–Sep)
+- Jammu & Kashmir (NH44 corridor): landslides, road cuts (monsoon + winter)
+- Maharashtra industrial belt: chemical/industrial incidents (year-round)
+
+CRITICAL INFRASTRUCTURE:
+- National Highway network (NH44, NH16, NH48 are priority corridors)
+- Major river systems: Godavari, Krishna, Mahanadi, Brahmaputra, Ganga
+- Coastal ports: Paradip, Visakhapatnam, Chennai, Mumbai
+
+NDRF BATTALION LOCATIONS (key bases):
+- Patna, Kolkata, Mundali (Odisha), Vijayawada, Pune, Nagpur, Jammu, Guwahati, Gandhinagar, Varanasi
+
+RESPONSE DOCTRINE:
+1. Life safety is the primary objective — search and rescue before property protection
+2. Vulnerable populations (elderly, children, disabled) are priority evacuation targets
+3. Medical units should be pre-positioned within 30 minutes of critical incidents
+4. Helicopters are reserved for inaccessible areas and mass casualty evacuation
+5. Inter-agency coordination is mandatory for multi-district incidents
+6. NDRF teams should not be split — deploy full teams to maximize effectiveness
+
+COMMUNICATION CHANNELS:
+- IWIN (India Disaster Resource Network) for resource tracking
+- NDMA control room: 1078
+- State EOC coordination required for all severity ≥ 70 incidents
